@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:400,700");
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.pink-bg {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: #ffb6c1;
+}
+
+.text-med {
+  font-size: 24px;
+}
+
+#second-elem {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+#fourth-elem {
+  background-color: rgb(144, 238, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
